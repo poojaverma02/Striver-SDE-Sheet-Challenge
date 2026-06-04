@@ -2,6 +2,11 @@
 // S.C: O(1)
 // Question Link: https://takeuforward.org/plus/dsa/problems/find-the-duplicate-number?source=strivers-sde-sheet
 
+//we are using hare and tortoise algorithm 
+//Note: For Identify Hare and Tortoise Algorithm, we can use the following patterns:
+//1. if question ask for Duplicacy or
+//2.if we can Traverse through indices
+
 class Solution {
    public:
     int findDuplicate(vector<int>& nums) {
