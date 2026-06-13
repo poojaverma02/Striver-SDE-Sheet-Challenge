@@ -1,0 +1,49 @@
+// T.C: O(NlogN)+O(N2)
+// S.C: O(1)
+// Question Link: https://takeuforward.org/plus/dsa/problems/3-sum?source=strivers-sde-sheet
+
+class Solution {
+   public:
+    // Function to find triplets having sum equals to target
+    vector<vector<int>> threeSum(vector<int>& nums) {
+        // Vector to store the triplets that sum up to target
+        vector<vector<int>> ans;
+
+        int n = nums.size();
+
+        // Sort the input array nums
+        sort(nums.begin(), nums.end());
+
+        // Iterate through the array to find triplets
+        for (int i = 0; i < n; i++) {
+            // Skip duplicates
+            if (i > 0 && nums[i] == nums[i - 1]) continue;
+
+            // Two pointers approach
+            int j = i + 1;
+            int k = n - 1;
+
+            while (j < k) {
+                int sum = nums[i] + nums[j] + nums[k];
+
+                if (sum < 0) {
+                    j++;
+                } else if (sum > 0) {
+                    k--;
+                } else {
+                    // Found a triplet that sums up to target
+                    vector<int> temp = {nums[i], nums[j], nums[k]};
+                    ans.push_back(temp);
+
+                    // Skip duplicates
+                    j++;
+                    k--;
+                    while (j < k && nums[j] == nums[j - 1]) j++;
+                    while (j < k && nums[k] == nums[k + 1]) k--;
+                }
+            }
+        }
+
+        return ans;
+    }
+};
