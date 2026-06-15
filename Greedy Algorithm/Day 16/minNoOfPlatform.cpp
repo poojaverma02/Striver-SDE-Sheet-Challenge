@@ -1,0 +1,3 @@
+// T.C: O(2N) + O(NlogN), Reason: O(2N) for storing and checking the start and end time of the meetings in a vector of pairs and O(NlogN) for sorting the vector of pairs based on the end time of the meetings.
+// S.C: O(N), Reason: O(N) for storing the start and end time of the meetings in a vector of pairs.
+// Question Link: https://takeuforward.org/plus/dsa/problems/n-meetings-in-one-room?source=strivers-sde-sheet
