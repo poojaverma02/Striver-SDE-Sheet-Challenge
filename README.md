@@ -14,7 +14,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 | Total Problems | Solved | Remaining |
 |---|---|---|
-| 191 | 46 | 145 |
+| 191 | 50 | 141 |
 
 ---
 
@@ -100,7 +100,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 <br />
 
-**03-Greedy-Algorithms (Day 15)**
+**03-Greedy-Algorithms (Days 15-16)**
 <br />
 
 ✅ **Day 15: Greedy Algorithm**
@@ -108,3 +108,20 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 - Minimum number of platforms required for a railway
 - Job sequencing Problem
 - Fractional Knapsack
+
+<br />
+
+✅ **Day 16: Greedy Algorithm**
+- Minimum coins
+- Assign Cookies
+
+<br />
+
+**04-Recursion (Day 16)**
+<br />
+
+✅ **Day 16: Recursion**
+- Subset Sums
+- Subsets II
+
+<br />
