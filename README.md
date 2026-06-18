@@ -14,7 +14,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 | Total Problems | Solved | Remaining |
 |---|---|---|
-| 191 | 50 | 141 |
+| 191 | 57 | 134 |
 
 ---
 
@@ -117,7 +117,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 <br />
 
-**04-Recursion (Day 16)**
+**04-Recursion (Days 16-17)**
 <br />
 
 ✅ **Day 16: Recursion**
@@ -125,3 +125,24 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 - Subsets II
 
 <br />
+
+✅ **Day 17: Recursion**
+- Combination Sum
+- Combination Sum II
+- Palindrome partitioning
+- Permutation Sequence
+
+<br />
+
+**05-Recursion and Backtracking (Day 18)**
+<br />
+
+✅ **Day 18: Recursion and Backtracking**
+- Permutations of a String
+- N Queen
+- Sudoku Solver
+
+<br />
+
+
+
