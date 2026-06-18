@@ -72,7 +72,6 @@ private:
 
             // Explore: recurse to fill the remaining positions.
             backtrack(s, used, current, result, n);
-
             // Un-choose (backtrack): remove the character and mark
             // it unused again, so other branches can try it in
             // different positions.
