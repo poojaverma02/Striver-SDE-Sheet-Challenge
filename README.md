@@ -134,13 +134,20 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 <br />
 
-**05-Recursion and Backtracking (Day 18)**
+**05-Recursion and Backtracking (Days 18-19)**
 <br />
 
 ✅ **Day 18: Recursion and Backtracking**
 - Permutations of a String
 - N Queen
 - Sudoku Solver
+
+<br />
+
+✅ **Day 19: Recursion and Backtracking**
+- M Coloring Problem
+- Rat in a Maze
+- Word Break (print all ways)
 
 <br />
 
