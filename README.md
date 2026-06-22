@@ -14,7 +14,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 | Total Problems | Solved | Remaining |
 |---|---|---|
-| 191 | 64 | 127 |
+| 191 | 71 | 120 |
 
 ---
 
@@ -150,6 +150,36 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 - Word Break (print all ways)
 
 <br />
+
+**06-Binary Search (Days 20-21)**
+<br />
+
+✅ **Day 20: Binary Search**
+- The N-th root of an integer
+- Matrix Median
+- Single element in sorted array
+- Search element in a sorted and rotated array/ find pivot where it is rotated
+
+<br />
+
+✅ **Day 21: Binary Search**
+- Median of 2 sorted arrays
+- Kth element of 2 sorted arrays
+- Allocate Minimum Number of Pages
+- Aggressive Cows
+
+<br />
+
+**07-Heaps (Day 22)**
+<br />
+
+✅ **Day 22: Heaps**
+- Implement Max Heap
+- K-th Largest element in an array
+- Maximum Sum Combination
+
+<br />
+
 
 
 
