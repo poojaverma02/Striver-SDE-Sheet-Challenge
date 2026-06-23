@@ -14,7 +14,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 | Total Problems | Solved | Remaining |
 |---|---|---|
-| 191 | 71 | 120 |
+| 191 | 74 | 117 |
 
 ---
 
@@ -170,13 +170,20 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 <br />
 
-**07-Heaps (Day 22)**
+**07-Heaps (Days 22-23)**
 <br />
 
 ✅ **Day 22: Heaps**
 - Implement Max Heap
 - K-th Largest element in an array
 - Maximum Sum Combination
+
+<br />
+
+✅ **Day 23: Heaps**
+- Find Median from Data Stream
+- Merge K Sorted Arrays
+- Top K Frequent Elements
 
 <br />
 
