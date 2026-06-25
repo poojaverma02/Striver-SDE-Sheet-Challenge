@@ -14,7 +14,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 | Total Problems | Solved | Remaining |
 |---|---|---|
-| 191 | 74 | 117 |
+| 191 | 67 | 110 |
 
 ---
 
@@ -184,6 +184,24 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 - Find Median from Data Stream
 - Merge K Sorted Arrays
 - Top K Frequent Elements
+
+<br />
+
+**08-Stack and Queue (Days 24-25)**
+<br />
+
+✅ **Day 24: Stack and Queue**
+- Implement Stack using Arrays
+- Implement Queue using Arrays
+- Implement Stack using Queue (using single queue)
+- Implement Queue using Stack
+
+<br />
+
+✅ **Day 25: Stack and Queue**
+- Balanced Paranthesis
+- Next Greater Element
+- Sort a Stack
 
 <br />
 
