@@ -14,7 +14,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 | Total Problems | Solved | Remaining |
 |---|---|---|
-| 191 | 67 | 110 |
+| 191 | 70 | 107 |
 
 ---
 
@@ -187,7 +187,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 <br />
 
-**08-Stack and Queue (Days 24-25)**
+**08-Stack and Queue (Days 24-26)**
 <br />
 
 ✅ **Day 24: Stack and Queue**
@@ -202,6 +202,13 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 - Balanced Paranthesis
 - Next Greater Element
 - Sort a Stack
+
+<br />
+
+✅ **Day 26: Stack and Queue Part-II**
+- Next Smaller Element
+- LRU Cache
+- LFU Cache
 
 <br />
 
