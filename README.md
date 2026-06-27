@@ -187,7 +187,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 <br />
 
-**08-Stack and Queue (Days 24-26)**
+**08-Stack and Queue (Days 24-27)**
 <br />
 
 ✅ **Day 24: Stack and Queue**
@@ -209,6 +209,14 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 - Next Smaller Element
 - LRU Cache
 - LFU Cache
+
+<br />
+
+✅ **Day 27: Stack and Queue Part-II**
+- Largest rectangle in a histogram
+- Sliding Window Maximum
+- Implement Min Stack
+- Rotten Oranges
 
 <br />
 
