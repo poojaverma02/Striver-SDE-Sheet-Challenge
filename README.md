@@ -14,7 +14,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 | Total Problems | Solved | Remaining |
 |---|---|---|
-| 191 | 74 | 103 |
+| 191 | 91 | 100 |
 
 ---
 
@@ -187,7 +187,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 <br />
 
-**08-Stack and Queue (Days 24-27)**
+**08-Stack and Queue (Days 24-28)**
 <br />
 
 ✅ **Day 24: Stack and Queue**
@@ -217,6 +217,13 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 - Sliding Window Maximum
 - Implement Min Stack
 - Rotten Oranges
+
+<br />
+
+✅ **Day 28: Stack and Queue Part-II**
+- Stock span problem
+- Maximum of Minimums for Every Window Size
+- Celebrity Problem
 
 <br />
 
