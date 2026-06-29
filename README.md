@@ -14,7 +14,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 | Total Problems | Solved | Remaining |
 |---|---|---|
-| 191 | 91 | 100 |
+| 191 | 94 | 97 |
 
 ---
 
@@ -224,6 +224,16 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 - Stock span problem
 - Maximum of Minimums for Every Window Size
 - Celebrity Problem
+
+<br />
+
+**09-String (Day 29)**
+<br />
+
+✅ **Day 29: String**
+- Reverse every word in a string
+- Longest Palindrome in a string
+- Roman to Integer
 
 <br />
 
