@@ -238,7 +238,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 <br />
 
 ✅ **Day 30: String**
-- Implement ATOI/STRSTR
+- Implement ATOI
 - Longest Common Prefix
 - Rabin Karp Algorithm
 
