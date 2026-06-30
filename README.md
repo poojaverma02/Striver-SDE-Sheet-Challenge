@@ -14,7 +14,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 | Total Problems | Solved | Remaining |
 |---|---|---|
-| 191 | 94 | 97 |
+| 191 | 97 | 94 |
 
 ---
 
@@ -227,13 +227,20 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 <br />
 
-**09-String (Day 29)**
+**09-String (Days 29-30)**
 <br />
 
 ✅ **Day 29: String**
 - Reverse every word in a string
 - Longest Palindrome in a string
 - Roman to Integer
+
+<br />
+
+✅ **Day 30: String**
+- Implement ATOI/STRSTR
+- Longest Common Prefix
+- Rabin Karp Algorithm
 
 <br />
 
