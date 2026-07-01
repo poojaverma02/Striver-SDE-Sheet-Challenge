@@ -14,7 +14,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 | Total Problems | Solved | Remaining |
 |---|---|---|
-| 191 | 97 | 94 |
+| 191 | 100 | 91 |
 
 ---
 
@@ -227,7 +227,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 <br />
 
-**09-String (Days 29-30)**
+**09-String (Days 29-31)**
 <br />
 
 ✅ **Day 29: String**
@@ -241,6 +241,13 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 - Implement ATOI
 - Longest Common Prefix
 - Rabin Karp Algorithm
+
+<br />
+
+✅ **Day 31: String Part-II**
+- Z function
+- KMP Algorithm or LPS array
+- Minimum insertions to make string palindrome
 
 <br />
 
