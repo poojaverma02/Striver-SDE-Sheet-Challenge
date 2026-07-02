@@ -14,7 +14,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 | Total Problems | Solved | Remaining |
 |---|---|---|
-| 191 | 100 | 91 |
+| 191 | 103 | 88 |
 
 ---
 
@@ -227,7 +227,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 <br />
 
-**09-String (Days 29-31)**
+**09-String (Days 29-32)**
 <br />
 
 ✅ **Day 29: String**
@@ -248,6 +248,13 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 - Z function
 - KMP Algorithm or LPS array
 - Minimum insertions to make string palindrome
+
+<br />
+
+✅ **Day 32: String Part-II**
+- Valid Anagram
+- Count and say
+- Compare version numbers
 
 <br />
 
