@@ -14,7 +14,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 | Total Problems | Solved | Remaining |
 |---|---|---|
-| 191 | 103 | 88 |
+| 191 | 107 | 84 |
 
 ---
 
@@ -255,6 +255,17 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 - Valid Anagram
 - Count and say
 - Compare version numbers
+
+<br />
+
+**10-Binary Tree (Day 33)**
+<br />
+
+✅ **Day 33: Binary Tree**
+- Inorder Traversal
+- Preorder Traversal
+- Postorder Traversal
+- Morris Inorder Traversal
 
 <br />
 
