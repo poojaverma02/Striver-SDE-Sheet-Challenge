@@ -14,7 +14,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 | Total Problems | Solved | Remaining |
 |---|---|---|
-| 191 | 123 | 68 |
+| 191 | 126 | 65 |
 
 ---
 
@@ -258,7 +258,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 <br />
 
-**10-Binary Tree (Days 33-37)**
+**10-Binary Tree (Days 33-38)**
 <br />
 
 ✅ **Day 33: Binary Tree**
@@ -298,6 +298,13 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 - Check if two trees are identical or not
 - Zig Zag or Spiral Traversal
 - Boundary Traversal
+
+<br />
+
+✅ **Day 38: Binary Tree part-III**
+- Maximum path sum
+- Construct a BT from Preorder and Inorder
+- Construct a BT from Postorder and Inorder
 
 <br />
 
