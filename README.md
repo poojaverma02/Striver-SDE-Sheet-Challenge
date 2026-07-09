@@ -14,7 +14,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 | Total Problems | Solved | Remaining |
 |---|---|---|
-| 191 | 126 | 65 |
+| 191 | 130 | 61 |
 
 ---
 
@@ -258,7 +258,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 <br />
 
-**10-Binary Tree (Days 33-38)**
+**10-Binary Tree (Days 33-39)**
 <br />
 
 ✅ **Day 33: Binary Tree**
@@ -305,6 +305,14 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 - Maximum path sum
 - Construct a BT from Preorder and Inorder
 - Construct a BT from Postorder and Inorder
+
+<br />
+
+✅ **Day 39: Binary Tree part-III**
+- Symmetric Binary Tree
+- Flatten Binary Tree to Linked List
+- Check for symmetrical BTs
+- Children Sum Property in Binary Tree
 
 <br />
 
