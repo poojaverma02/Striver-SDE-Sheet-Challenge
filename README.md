@@ -14,7 +14,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 | Total Problems | Solved | Remaining |
 |---|---|---|
-| 191 | 133 | 58 |
+| 191 | 137 | 54 |
 
 ---
 
@@ -316,13 +316,21 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 <br />
 
-**11-Binary Search Tree (Day 40)**
+**11-Binary Search Tree (Days 40-41)**
 <br />
 
 ✅ **Day 40: Binary Search Tree**
 - Populating Next Right Pointers in Each Node
 - Search in BST
 - Construct BST from given keys
+
+<br />
+
+✅ **Day 41: Binary Search Tree**
+- Construct a BST from a preorder traversal
+- Check if a tree is a BST or not
+- LCA in BST
+- 
 
 <br />
 
