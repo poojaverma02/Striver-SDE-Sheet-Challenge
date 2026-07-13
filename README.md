@@ -14,7 +14,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 | Total Problems | Solved | Remaining |
 |---|---|---|
-| 191 | 141 | 50 |
+| 191 | 145 | 46 |
 
 ---
 
@@ -316,7 +316,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 <br />
 
-**11-Binary Search Tree (Days 40-42)**
+**11-Binary Search Tree (Days 40-43)**
 <br />
 
 ✅ **Day 40: Binary Search Tree**
@@ -339,6 +339,14 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 - Ceil in a BST
 - Find K-th smallest element in BST
 - Kth Smallest and Largest element in BST
+
+<br />
+
+✅ **Day 43: Binary Search Tree Part-II**
+- Two sum in BST
+- BST iterator
+- Size of the largest BST in a Binary Tree
+- Serialize and De-serialize BT
 
 <br />
 
