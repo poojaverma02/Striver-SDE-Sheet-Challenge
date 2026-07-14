@@ -14,7 +14,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 | Total Problems | Solved | Remaining |
 |---|---|---|
-| 191 | 145 | 46 |
+| 191 | 148 | 43 |
 
 ---
 
@@ -350,5 +350,13 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 <br />
 
+**12-Miscellaneous [Binary Trees] (Day 44)**
+<br />
 
+✅ **Day 44: Miscellaneous [Binary Trees]**
+- Binary Tree to Doubly Linked List
+- Find Median in a Stream
+- Kth largest element in a stream of running integers
+
+<br />
 
