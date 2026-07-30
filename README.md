@@ -14,7 +14,7 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 | Total Problems | Solved | Remaining |
 |---|---|---|
-| 191 | 186 | 5 |
+| 191 | 191 | 0 | ✅ Completed |
 
 ---
 
