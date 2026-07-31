@@ -367,3 +367,48 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 <br />
 
+**13-Graph (Days 46-51)**
+<br />
+
+✅ **Day 46: Graph**
+- Clone Graph
+- DFS
+- Traversal Techniques
+
+<br />
+
+✅ **Day 47: Graph**
+- Detect A cycle in Undirected Graph using BFS
+- Detect A cycle in Undirected Graph using DFS
+- Detect A cycle in a Directed Graph using DFS
+
+<br />
+
+✅ **Day 48: Graph**
+- Detect A cycle in a Directed Graph using BFS
+- Topological Sort BFS
+- Topological Sort DFS
+
+<br />
+
+✅ **Day 49: Graph**
+- Number of islands(Do in Grid and Graph Both)
+- Bipartite graph
+- Bipartite Check using DFS
+
+<br />
+
+✅ **Day 50: Graph Part-II**
+- Strongly Connected Component(using KosaRajuΓÇÖs algo)
+- Dijkstra's algorithm
+- Bellman ford algorithm
+
+<br />
+
+✅ **Day 51: Graph Part-II**
+- Floyd Warshall Algorithm
+- MST using Prim's Algo
+- MST using KruskalΓÇÖs Algo
+
+<br />
+
