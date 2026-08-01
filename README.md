@@ -367,6 +367,8 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 
 <br />
 
+Completed the remaining problems after the challenge as part of my continuous learning journey.
+
 **13-Graph (Days 46-51)**
 <br />
 
@@ -410,5 +412,64 @@ To build strong DSA fundamentals and problem-solving patterns required to crack 
 - MST using Prim's Algo
 - MST using KruskalΓÇÖs Algo
 
+<br />
+
+**14-Dynamic Programming (Days 52-56)**
+<br />
+
+✅ **Day 52: Dynamic Programming**
+- Max Product Subarray
+- Longest Increasing Subsequence
+- Longest common subsequence
+
+<br />
+
+✅ **Day 53: Dynamic Programming**
+- 0 and 1 Knapsack
+- Edit distance
+- Maximum Sum Increasing Subsequence
+- Matrix chain multiplication
+
+<br />
+
+✅ **Day 54: Dynamic Programming Part-II**
+- Minimum sum path in the matrix, (count paths and similar type do, also backtrack to find the Minimum path)
+- Coin change II
+- Subset sum equals to target
+
+<br />
+
+✅ **Day 55: Dynamic Programming Part-II**
+- Rod cutting problem
+- Super Egg Drop
+- Word Break
+
+<br />
+
+✅ **Day 56: Dynamic Programming Part-II**
+- Palindrome Partitioning (MCM Variation)
+- Maximum Profit in Job Scheduling
+
+<br />
+
+**15-Trie (Days 57-59)**
+<br />
+
+✅ **Day 57: Trie**
+- Trie Implementation and Operations
+- Trie Implementation and Advanced Operations
+
+<br />
+
+✅ **Day 58: Trie**
+- Longest Word with All Prefixes
+- Number of distinct substrings in a string
+- Power Set (this is very important)
+
+<br />
+
+✅ **Day 59: Trie**
+- Maximum XOR of two numbers in an array
+- Maximum Xor with an element from an array
 <br />
 
