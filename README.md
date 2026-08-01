@@ -2,6 +2,8 @@
 
 > Systematically solving [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) — 191 handpicked problems to crack product-based company interviews.
 
+Repository containing solutions to my 45-Day SDE Challenge. I continued beyond the challenge period to complete all remaining problems, demonstrating consistency and commitment to mastering Data Structures and Algorithms.
+
 ---
 
 ## 🎯 Goal
